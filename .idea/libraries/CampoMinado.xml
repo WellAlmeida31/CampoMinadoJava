@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="CampoMinado">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/CampoMinado.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
